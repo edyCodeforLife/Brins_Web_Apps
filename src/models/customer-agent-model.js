@@ -1,0 +1,25 @@
+    var CustomerAgentModel = {
+        ID: 0,
+		CustomerID:"",
+		Name:"",
+		Title:"",
+		Email:"",
+		MobilePhone:"",
+		Phone:"",
+		OwnerID:"",
+		BranchCode:"",
+		Address:"",
+		City:"",
+		Country:"",
+		ZipCode:"",
+		Gender:"",
+		IdentificationNumber:"",
+		ID_Name:"",
+		BirthPlace:"",
+		Birthday:"",
+		CreatedBy:0,
+		CreatedOn:"",
+		UpdatedBy:0,
+        UpdatedOn:""
+    }
+export default CustomerAgentModel;
